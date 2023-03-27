@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+ <student-id>12345</student-id>
+  <name>
+    <first-name>John</first-name>
+    <last-name>Kennedy</last-name>
+  </name>
+  <address>
+    <country>USA</country>
+    <city>NewYork</city>
+    <zip-code>10001</zip-code>
+    <street>null<street/>
+  </address>
+  <date-of-birth>"2005-01-01"</date-of-birth>
+  <email>john.k@gmail.com</email>
+  <phone number>105012345678</phone number>
+  <grades>
+   <mathematic>12</mathematic>
+   <physics>10</physics>
+   <biology>10</biology>
+  </grades>
+  <faculty>Faculty of Math</faculty>
+  <major>Applied math</major>
+  <group>2</group>
+  <on-stipend>true</on-stipend>
+</Students>

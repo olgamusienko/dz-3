@@ -1,0 +1,25 @@
+{
+  "StudentId": 12345,
+  "Name": {
+    "FirstName": "John",
+    "LastName": "Kennedy"
+  },
+  "Address": {
+    "Country": "USA",
+    "City": "New York",
+    "ZipCode": 10001,
+    "Street": null
+  },
+  "DateOfBirth": "2005-01-01",
+  "Email": "john.k@gmail.com",
+  "PhoneNumber": 105012345678,
+  "Grades": {
+    "Mathematic": 12,
+    "Physics": 10,
+    "Biology": 10
+  },
+  "Faculty": "Faculty of Math",
+  "Major": "Applied math",
+  "Group": 2,
+  "OnStipend": true
+}
