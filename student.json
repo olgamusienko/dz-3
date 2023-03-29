@@ -1,25 +1,25 @@
 {
-  "StudentId": 12345,
-  "Name": {
-    "FirstName": "John",
-    "LastName": "Kennedy"
+  "studentId": 12345,
+  "name": {
+    "firstName": "John",
+    "lastName": "Kennedy"
   },
-  "Address": {
-    "Country": "USA",
-    "City": "New York",
-    "ZipCode": 10001,
-    "Street": null
+  "address": {
+    "country": "USA",
+    "city": "New York",
+    "zipCode": 10001,
+    "street": null
   },
-  "DateOfBirth": "2005-01-01",
-  "Email": "john.k@gmail.com",
-  "PhoneNumber": 105012345678,
-  "Grades": {
-    "Mathematic": 12,
-    "Physics": 10,
-    "Biology": 10
+  "dateOfBirth": "2005-01-01",
+  "email": "john.k@gmail.com",
+  "phoneNumber": 105012345678,
+  "grades": {
+    "mathematic": 12,
+    "physics": 10,
+    "biology": 10
   },
-  "Faculty": "Faculty of Math",
-  "Major": "Applied math",
-  "Group": 2,
-  "OnStipend": true
+  "faculty": "Faculty of Math",
+  "major": "Applied math",
+  "group": 2,
+  "onStipend": true
 }

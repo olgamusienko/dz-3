@@ -11,9 +11,9 @@
     <zip-code>10001</zip-code>
     <street>null<street/>
   </address>
-  <date-of-birth>"2005-01-01"</date-of-birth>
+  <date-of-birth>2005-01-01</date-of-birth>
   <email>john.k@gmail.com</email>
-  <phone number>105012345678</phone number>
+  <phone-number>105012345678</phone-number>
   <grades>
    <mathematic>12</mathematic>
    <physics>10</physics>
